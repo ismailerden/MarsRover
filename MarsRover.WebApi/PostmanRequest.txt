@@ -1,0 +1,13 @@
+https://localhost:44304/MarsOverWebApi/PostMarsOver/LMLMLMLMM
+
+{
+	"RoverDirection":1,
+	"RoverPosition": {
+		"X":1,
+		"Y":2
+	},	
+	"MaxPosition": {
+		"X":5,
+		"Y":5
+	}
+}
